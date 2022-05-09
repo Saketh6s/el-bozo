@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "el pepe"
+    },
+    "IH2kq~U": {
+        "data": "hwQQABAAAAAAAADw/wAAAAAAAP8ADwAAAP///w8PAADwDwAPDw8AAP//Dw//DwAADw8PD/APAAAP/w//8A8AAA8AAPD/DwAADwAA/wD/AAAPAAAPAP8AAA//Dw/w/wAADw8PD/AADwAP/w8P/wAPAA8A//8PAP8A//8PAP///wAAAAAAAPAPAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "el pepe0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
